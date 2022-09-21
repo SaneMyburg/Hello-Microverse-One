@@ -18,5 +18,7 @@ HTML and CSS
 * Add css file and style it.
 * Add test.md file with the text "This file should be ignored by git".
 
+#### Author 
+Sane Myburg
 
 
