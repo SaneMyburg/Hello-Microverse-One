@@ -1,0 +1,23 @@
+{
+  "name": "microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaneMyburg/Hello-Microverse-One.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaneMyburg/Hello-Microverse-One/issues"
+  },
+  "homepage": "https://github.com/SaneMyburg/Hello-Microverse-One#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
